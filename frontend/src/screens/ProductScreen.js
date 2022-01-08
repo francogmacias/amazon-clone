@@ -58,7 +58,7 @@ const Productscreen = (props) => {
                                                 In Stock
                                             </span>
                                         ) : (
-                                            <span className="error">
+                                            <span className="danger">
                                                 Unavailable
                                             </span>
                                         )}
