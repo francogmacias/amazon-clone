@@ -1,6 +1,6 @@
 import React from "react";
 
-const Loadingbox = () => {
+const LoadingBox = () => {
     return (
         <div>
             <i className="fa fa-spinner fa-spin"></i> Loading...
@@ -8,4 +8,4 @@ const Loadingbox = () => {
     );
 };
 
-export default Loadingbox;
+export default LoadingBox;
