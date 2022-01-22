@@ -29,7 +29,6 @@ const ShippingAddressScreen = (props) => {
             })
         );
         props.history.push("/payment");
-        // Next
     };
     return (
         <div>
