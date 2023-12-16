@@ -19,6 +19,7 @@
     "homepage": "https://github.com/fe1fe1/amazon-clone#readme",
     "dependencies": {
         "bcryptjs": "^2.4.3",
+        "cors": "^2.8.5",
         "dotenv": "^11.0.0",
         "express": "^4.17.2",
         "express-async-handler": "^1.2.0",
