@@ -1,6 +1,6 @@
 {
     "name": "frontend",
-    "proxy": "https://amazon-clone-backend-fgm.onrender.com/",
+    "proxy": "https://amazon-clone-backend-fgm.onrender.com",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
